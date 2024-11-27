@@ -1,5 +1,8 @@
 # JsExa
-# Att det ser ut enligt skiss
+
+
+
+
 #Att API:et används
 #Sidan fungerar med inga fel i konsolen i developer tools
 #Vettiga namn på variabler och funktioner på engelska
